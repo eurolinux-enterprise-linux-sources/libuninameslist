@@ -1,6 +1,6 @@
 Name:           libuninameslist
 Version:        20091231
-Release:        8%{?dist}
+Release:        6%{?dist}
 
 Summary:        A library providing Unicode character names and annotations
 
@@ -60,12 +60,6 @@ rm -rf $RPM_BUILD_ROOT
 
 
 %changelog
-* Fri Jan 24 2014 Daniel Mach <dmach@redhat.com> - 20091231-8
-- Mass rebuild 2014-01-24
-
-* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 20091231-7
-- Mass rebuild 2013-12-27
-
 * Sat Mar 23 2013 Kevin Fenzi <kevin@scrye.com> 20091231-6
 - Add patch to support aarch64. Fixes bug #925910
 
