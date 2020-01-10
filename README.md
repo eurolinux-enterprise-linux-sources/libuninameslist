@@ -1,3 +1,4 @@
-# ELS - Enterprise Linux/EuroLinux Sources - libuninameslist 
+# ELS - Enterprise Linux/EuroLinux Sources - libuninameslist
+ 
 ## Usage:
-  Checkout branch or tag.
+  Checkout branch or tag. Use `make sources` to recreate  SOURCE0 archive.
